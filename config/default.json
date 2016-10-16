@@ -1,6 +1,6 @@
 {
     "appSecret": "af9952cbd79c0f4cc51adde4ccb28fdc",
-    "pageAccessToken": "",
+    "pageAccessToken": "EAAZAMpz6ZC6KsBALQS1Pzijv3NZCIee3fZA27Xfuxr7I2twsuEYg7bOJOC9e6Faidgin5Pp6gQBAg0OaKGStzj6zOgvCwZAJhCqoaWsZC4p67zNyAV9mjy6uBxdBkpzQZA4WabJxtjSh0UgcBrOvkCiu3ZCz47onHnCGBjeoqICXsgZDZD",
     "validationToken": "my_love",
-    "serverURL": ""
+    "serverURL": "https://zodinetbot.herokuapp.com/webhook"
 }
